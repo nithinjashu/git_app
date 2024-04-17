@@ -1,6 +1,7 @@
 ## Application Details
 ## first bas push request
 ## created feature branch to bas 
+## now push from BAS to GIT
 |               |
 | ------------- |
 |**Generation Date and Time**<br>Wed Apr 10 2024 12:47:54 GMT+0000 (Coordinated Universal Time)|
